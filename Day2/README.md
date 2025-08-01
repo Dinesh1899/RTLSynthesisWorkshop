@@ -39,7 +39,7 @@ Used when:
 
 ```bash
 synth -top <SUB_MODULE>
-
+```
 This allows reuse of synthesized logic for efficiency.
 
 ## Flip-Flop (Flop) Coding Style
@@ -63,12 +63,10 @@ After reading the RTL and performing `synth -top`, use the following commands to
 ```bash
 dfflibmap -lib <lib_file>
 abc -liberty <lib_file>
+```
 
 
 
----
-
-```markdown
 ## Summary
 
 Day 2 focused on:
