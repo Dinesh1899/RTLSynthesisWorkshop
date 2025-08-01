@@ -1,2 +1,3 @@
-# RTLSynthesisWorkshop
-A hands on workshop on RTL Synthesis by VSD
+# 🛠️ VSD RTL Synthesis Workshop 
+
+  This workshop provides a hands-on introduction to the RTL (Register Transfer Level) synthesis flow using open-source tools like **Icarus Verilog, GTKWave, and Yosys**, with a focus on the **Sky130 standard cell library**. Topics consisted of how to write simulation-ready Verilog, perform synthesis, understand hierarchical and flattened designs, optimize combinational and sequential logic, and validate gate-level netlists through GLS (Gate-Level Simulation). The sessions emphasize both conceptual understanding and practical command-line workflows, offering real-world insights into digital design, synthesis optimizations, and timing-aware verification techniques.
