@@ -1,6 +1,6 @@
 # Labs
 
-## Simulating of good_mux using Iverilog
+## Simulation of good_mux using Iverilog
 
 ![alt text](img/tb_good_mux_sim.png)
 
