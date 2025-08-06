@@ -1,3 +1,0 @@
-This is a Repo used for 5 Day RTL Synthesis workshop, README.md for each day is already added which only contains the theory.
-Each day has some exercise to be performed on iverilog, gtkwave and yosys. The screenshots are there in img folder for each day.
-Please help me in adding documentation for the lab exercises which is basically adding the images and some documentation for the lab exercises
